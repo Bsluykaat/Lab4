@@ -1,0 +1,16 @@
+{
+    "name": "lab4",
+    "version": "1.0.1",
+    "main": "get-file.js",
+    "dependencies": {
+        "chai": "^5.1.2",
+        "mocha": "^10.7.3",
+        "selenium-webdriver": "^4.25.0",
+        "sinon": "^19.0.2",
+        "string": "^3.3.3",
+        "validator": "^13.11.0"
+    },
+    "scripts": {
+        "test": "node ./node_modules/mocha/bin/mocha"
+    }
+}
